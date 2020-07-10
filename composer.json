@@ -1,5 +1,5 @@
 {
-    "name": "kreshnik/acf-field-icon-font",
+    "name": "josialoos/acf-field-icon-font",
     "description": "An font icon selector field that lets you preview a font icon.",
     "keywords": ["wordpress", "plugin"],
     "type": "wordpress-plugin",
